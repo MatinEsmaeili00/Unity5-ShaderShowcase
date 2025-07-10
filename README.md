@@ -12,7 +12,7 @@ Drop it into your project and start exploring cool effects immediately!
 
 1. Clone or download this repo
 2. Open any Unity 5+ project (Built-in RP)
-3. Drag and extract the zip file into your `Assets/` folder
+3. Drag and extract the zip file into your project `Assets/` folder
 4. Open `Unity5-ShaderShowcase-main/Scenes/ShaderDemo.unity`
 5. Hit play and explore the shaders in action
 
