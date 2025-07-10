@@ -1,4 +1,5 @@
-# 🧩 Unity 5 Shader Showcase (🧰 Built for Unity 5's Built-in Render Pipeline)
+# 🧩 Unity 5 Shader Showcase 
+(🧰 Built for Unity 5's Built-in Render Pipeline)
 
 Welcome to the **Unity 5 Shader Showcase** — a growing collection of stylized, animated, and VFX shaders built using **ShaderLab + HLSL**.  
 Each shader is organized in its own folder, comes with example materials, and is previewed in a clean demo scene.  
@@ -33,7 +34,7 @@ Click a folder to view its code, materials, and preview:
 | [`Objects`](./ShaderShowcase/Objects/)                   | Reusable scene props and demo meshes          |
 | [`PlantsShader`](./ShaderShowcase/PlantsShader/)         | Alpha blending vs alpha clipping for leaves   |
 | [`Scenes`](./ShaderShowcase/Scenes/)                     | `ShaderDemo.unity` scene to preview all       |
-| [`Scripts`](./ShaderShowcase/Scripts/)                   | Simple camera/player scripts                  |
+| [`Scripts`](./ShaderShowcase/Scripts/)                   | (not a shader) Simple camera/Other C# Scripts     |
 | [`SnowOnTop`](./ShaderShowcase/SnowOnTop/)               | Top-layer snow using normal-based blending    |
 | [`StencilShader`](./ShaderShowcase/StencilShader/)       | Multi-layered stencil buffer transitions      |
 
