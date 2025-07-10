@@ -49,3 +49,4 @@ You are free to use, modify, and share the code in your personal or commercial p
 ---
 
 Made with 💙 by [Matin Esmaeili](https://github.com/MatinEsmaeili00)
+Connect with me or explore more tools at [matin.cc](https://matin.cc)
