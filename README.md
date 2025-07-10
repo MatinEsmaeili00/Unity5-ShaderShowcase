@@ -26,17 +26,18 @@ Click a folder to view its code, materials, and preview:
 
 | Shader Name              | Description                                        |
 |--------------------------|----------------------------------------------------|
-| [`Blend`](./ShaderShowcase/Blend/)                       | Blend modes & compositing layers              |
-| [`DisplacementShader`](./ShaderShowcase/DisplacementShader/) | Vertex displacement based on sine motion      |
-| [`ExplosionWave`](./ShaderShowcase/ExplosionWave/)       | Distortion wave expanding from center         |
-| [`GradientAnimation`](./ShaderShowcase/GradientAnimation/) | UV-driven animated gradients                  |
-| [`MathVFX`](./ShaderShowcase/MathVFX/)                   | Math-driven shaders for trippy VFX            |
-| [`Objects`](./ShaderShowcase/Objects/)                   | Reusable scene props and demo meshes          |
-| [`PlantsShader`](./ShaderShowcase/PlantsShader/)         | Alpha blending vs alpha clipping for leaves   |
-| [`Scenes`](./ShaderShowcase/Scenes/)                     | `ShaderDemo.unity` scene to preview all       |
-| [`Scripts`](./ShaderShowcase/Scripts/)                   | (not a shader) Simple camera/Other C# Scripts     |
-| [`SnowOnTop`](./ShaderShowcase/SnowOnTop/)               | Top-layer snow using normal-based blending    |
-| [`StencilShader`](./ShaderShowcase/StencilShader/)       | Multi-layered stencil buffer transitions      |
+| [Blend](https://github.com/MatinEsmaeili00/Unity5-ShaderShowcase/tree/main/Blend)                       | Blend modes & compositing layers              |
+| [DisplacementShader](https://github.com/MatinEsmaeili00/Unity5-ShaderShowcase/tree/main/DisplacementShader) | Vertex displacement based on sine motion      |
+| [ExplosionWave](https://github.com/MatinEsmaeili00/Unity5-ShaderShowcase/tree/main/ExplosionWave)       | Distortion wave expanding from center         |
+| [GradientAnimation](https://github.com/MatinEsmaeili00/Unity5-ShaderShowcase/tree/main/GradientAnimation) | UV-driven animated gradients                  |
+| [MathVFX](https://github.com/MatinEsmaeili00/Unity5-ShaderShowcase/tree/main/MathVFX)                   | Math-driven shaders for trippy VFX            |
+| [Objects](https://github.com/MatinEsmaeili00/Unity5-ShaderShowcase/tree/main/Objects)                   | Reusable scene props and demo meshes          |
+| [PlantsShader](https://github.com/MatinEsmaeili00/Unity5-ShaderShowcase/tree/main/PlantsShader)         | Alpha blending vs alpha clipping for leaves   |
+| [Scenes](https://github.com/MatinEsmaeili00/Unity5-ShaderShowcase/tree/main/Scenes)                     | `ShaderDemo.unity` scene to preview all       |
+| [Scripts](https://github.com/MatinEsmaeili00/Unity5-ShaderShowcase/tree/main/Scripts)                   | (Not a shader) Simple camera/Other C# scripts                  |
+| [SnowOnTop](https://github.com/MatinEsmaeili00/Unity5-ShaderShowcase/tree/main/SnowOnTop)               | Top-layer snow using normal-based blending    |
+| [StencilShader](https://github.com/MatinEsmaeili00/Unity5-ShaderShowcase/tree/main/StencilShader)       | Multi-layered stencil buffer transitions      |
+
 
 ---
 
